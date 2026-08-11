@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alexander101001.github.io/ai-content-bot-landing/sitemap.xml
